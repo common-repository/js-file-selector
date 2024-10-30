@@ -1,0 +1,19 @@
+#js-file-selector-functions {
+    width:100%;
+    min-height: 250px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+.js-file-select-div label, .js-file-selector-row .radio-label {
+    vertical-align: initial;
+    margin-right: 10px;
+}
+.js-file-select-div input[type="radio"], .js-file-selector-row input[type="radio"] {
+    margin-left: 5px;
+}
+.js-file-select-div {
+    display: inline-block;
+}
+.js-file-select-div select {
+    margin-bottom: 10px;
+}
